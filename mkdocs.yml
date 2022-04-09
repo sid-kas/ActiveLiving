@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+    - Home: 'index.md'
+    - 'Workouts':
+        - 'No equipment': 'workouts/no-equipment.md'
+        - 'with furniture and stuff': 'workouts/with-furniture-and-stuff.md'
