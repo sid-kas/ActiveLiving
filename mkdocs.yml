@@ -4,3 +4,5 @@ nav:
     - 'Workouts':
         - 'No equipment': 'workouts/no-equipment.md'
         - 'with furniture and stuff': 'workouts/with-furniture-and-stuff.md'
+    - 'Food': 
+        - 'Meals': 'food/meals.md'
