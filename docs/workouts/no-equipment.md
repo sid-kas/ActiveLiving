@@ -45,6 +45,7 @@ What you need is just yourself and probebly a yoga mat
 - Arm front raises
     - stand on the mat, start with arms beside hips 
     - front raise your earms till they reach above  your head
+- elbow plank to dolphin
 
 ### Set 5
 - Reverse lunge with knee raises
@@ -82,7 +83,7 @@ What you need is just yourself and probebly a yoga mat
     - raise your front body up using back muscles
     - do not use arm support
 - arm shoulder press
-- plank pose to mountain pose
+- plank pose to mountain pose / plank reach back
 
 
 ## **Medium**
