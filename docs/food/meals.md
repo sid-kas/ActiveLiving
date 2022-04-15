@@ -1,10 +1,20 @@
 # Easy vegan meals
 
 ## Red lentil soup + baked/panfried vegetables
-
+- boil split red lentils 1:6 water
+- after 10 min, add garam masala + curry powder boils 5min
+- bake vegetables (potatoes, bell peppers, onions, tomatoes, carrot...)
+- panfried vegetables: carrot match sticks, long cut onions, peppers
+- herbs: coriander, mint, fenugreek leaves
+- our lentil soup on baked vegetables / place panfired veggies on lentil soup
 ## yellow pea soup with roasted roots/mushrooms
-
-
+- overnight soaked yellow peas/chickpeas (boiled very soft)
+- garlic, nutmeg, thyme, pepper, fennel/annis seeds, salt
+- onions/cabbage, fennel bulb, carrots, brocoli, zuchini, cauliflower
+- coconut milk / almond milk / nut butter / seed butter
+- bring all ingridients to boil, add boiled peas and blend (ideally with handblender)
+- Now add the plant milk or nut butter
+- baked thinly sliced roots vegetables/mushrooms for toppings
 
 ## black beans stew with grains
 - oats, barley or brownrice
@@ -15,7 +25,7 @@
 - nut butter / tahini and / coconut milk 
 
 ## Indian curry with rice
-- yellow peas/chickpeas (boiled soft)
+- overnight soaked yellow peas/chickpeas (boiled very soft)
 - currypowder, garam masala, pepper, salt, kasoori methi
 - coconut milk / nut butter 
 - carrot, brocoli, cauliflower, bell peppers, green peas, french beans, zuchini
@@ -29,7 +39,7 @@
 - lemon, fresh mint, coriander, mung sprouts
 
 ## beans stew with sweet potato
-- red beans
+- overnight soaked red beans (boiled medium soft)
 - garlic, tomatoes and pure, oliveoil, pepper, salt
 - nut butter or ground cashew/almond + sesame paste
 - fresh mint/coriander
