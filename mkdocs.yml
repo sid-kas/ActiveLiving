@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: Active Living
+theme:
+  name: material
 nav:
     - Home: 'index.md'
     - 'Workouts':
@@ -6,3 +8,6 @@ nav:
         - 'with furniture and stuff': 'workouts/with-furniture-and-stuff.md'
     - 'Food': 
         - 'Meals': 'food/meals.md'
+        - 'Salads': 'food/salads.md'
+        - 'Dips': 'food/dips.md'
+        - 'Spice Mixes': 'food/spice-mixes.md'

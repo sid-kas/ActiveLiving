@@ -1,5 +1,3 @@
-# Vegan meals
-
 ## Red lentil soup + baked/panfried vegetables
 - boil split red lentils 1:6 water
 - after 10 min, add garam masala + curry powder boils 5min
@@ -144,37 +142,7 @@
 - Just roll it up and enjoy
 - Do not over fill;)
 
-## Hummus, pita bread and vegetables
-- tahini (dry roasted sesame paste)
-- overnight soaked yellow peas/chickpeas/lima beans/white beans (boiled very soft)
-    - optinal: add carrots or beets or any other roots while bioling
-- 1 tsp cumin mix (cumin, coriander, black cumin, fennel seeds 5:1:1:1 dry roasted and powdered)
-- oliveoil, garlic 1 clove (powder works as well), salt, lime juice
-- optinal: onion poweder, ground oil based sundried tomatoes, roasted pepper paste
-- add ice cubes / cold water instead of regular water while blending
 
-- Vegetables:
-    - cucumber, grilled tomatoes, sallad leaves, slighly grilled peers
-
-## Guacamole wtih nachos/hard bread
-- Ripe or frozen avacadoes paste or rough mash
-- fine diced:
-    - fresh tomatoes, red onions, peppers
-- cumin (cumin, fennel 3:1), pepper, olive oil, fresh lime, salt
-- optional: black salt
-
-## Baba Ganoush
-- Oven roasted / grilled egg plants shell removed and mashed
-- Blend with:
-    - garlic, tahini, parsley, olive oil
-    - pepper, salt
-## Ranbow sallad
-- medium size bulgur/couscous (boiled medium soft)
-- red/green lentils (boiled medium soft / bitable)
-    - roughtly 10-12 min to boil in a pan
-- red pepper, purple cabbage, fennel bulb,  cucumber, 
-- dill, parseley / mint, coriander ; lemon
-- olive oil, pepper, balsamic/white wine vinegar, soy sauce, coriander powder
 ## Fava cake
 - fava/lima beans
 - 1 onion, olive oil, salt, 1 sp sugar
@@ -206,31 +174,10 @@
 - Once cooked, finish with lemon juice
 - serve with oil roasted peanuts or cashew nuts
 
-# Seafood meals
-
 ## White Fish Curry 
 - horizontal cut fish
 
 ## Mushroom soup
+- mushrooms
 
-
-
-
-
-
-
-
-
-
-
-
-# Sallads
-
-## Chevre sallad with apple/wallnuts
-- lentils (red,beluga) / black eye peas
-- roots (carrot, beet, parsnip, celeriac)
-- apple, cider vinegar, lemon, salt, pepper, oliveoil
-- baked wallnuts 
-
-
-##  
+[mixes](salads.md#cumin-mix)
