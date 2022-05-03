@@ -23,7 +23,7 @@
 - Vegetables:
     - cucumber, grilled tomatoes, salad leaves, slighly grilled peers
 
-## Tsatziki
+## Tzatziki
 - yogurt (plant based/dairy)
 - cucumber grated, salted and water drained
 - finely grated garlic, lemon, salt, pepper, olive oil

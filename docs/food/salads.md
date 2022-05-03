@@ -7,9 +7,9 @@
 - steamed/baked/boiled roots (carrot, beet, parsnip, celeriac)
 - toppings:
     - Roasted wallnuts, pumpkin seeds, sunflower seeds
-    - optional: fried onins, raisins, cucumber, fetacheese
+    - optional: fried onins, raisins, dry cranberry, cucumber, fetacheese
 
-## Ranbow salad
+## Bulgur-Lentil salad
 - medium size bulgur/couscous (boiled medium soft)
 - red/green lentils (boiled medium soft / bitable)
     - roughtly 10-12 min to boil in a pan
@@ -17,9 +17,10 @@
 - dill, parseley / mint, coriander ; lemon
 - olive oil, pepper, balsamic/white wine vinegar, soy sauce, coriander powder
 
-## Chick pea salad
+## Leafy green salad
 - Dressings
     - cumin mix, black salt, pepper, salt, olive oil, lemon
     - balsamic vinegar, dijon/regular mustard, pepper, olive oil, salt
 - iceberg lettuce and other seasonal lettuce, chickpeas, cucumber, peppers
+- Mung sprouts
 

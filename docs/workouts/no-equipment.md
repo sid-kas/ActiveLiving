@@ -1,6 +1,6 @@
 # No equipemnt workouts (full body)
 
-What you need is just yourself and probebly a yoga mat
+What you need is just yourself and probably a yoga mat
 
 
 ## **Easy**
