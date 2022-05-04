@@ -11,3 +11,6 @@ nav:
         - 'Salads': 'food/salads.md'
         - 'Dips': 'food/dips.md'
         - 'Spice Mixes': 'food/spice-mixes.md'
+markdown_extensions:
+  - pymdownx.tasklist:
+      clickable_checkbox: true
