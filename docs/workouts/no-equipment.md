@@ -103,3 +103,10 @@ What you need is just yourself and probably a yoga mat
 
 - gymnast abb tuck
 - sliding tucks
+
+- Side plank pendulum leg+hand swings
+- high plank knee tucks
+- Plank step ups
+- barbell roll
+- mountain climbers: knee to chest increasing speed
+- jump over burpees

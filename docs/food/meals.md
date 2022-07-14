@@ -3,7 +3,7 @@
 ## **Soups**
 ### Red lentil soup + baked/panfried vegetables
 - boil split red lentils 1:6 water
-- after 10 min, add [garam masala](spice-mixes.md#garam-massala) + [curry powder](spice-mixes.md#curry-powder) boils 5min
+- after 10 min, add [garam masala](spice-mixes.md#garam-massala) + [curry powder](spice-mixes.md#curry-powder) boil 5min
 - bake vegetables (potatoes, bell peppers, onions, tomatoes, carrot...)
 - panfried vegetables: carrot match sticks, long cut onions, peppers
 - herbs: coriander, mint, dry fenugreek leaves
@@ -12,6 +12,7 @@
 - overnight soaked yellow peas/chickpeas (boiled very soft)
 - garlic, nutmeg, thyme, pepper, fennel/annis seeds, salt
 - onions/cabbage, fennel bulb, carrots, brocoli, zuchini, cauliflower
+- Optional greens: kale, spinach
 - coconut milk / almond milk / nut butter / seed butter
 - bring all ingridients to boil, add boiled peas and blend (ideally with handblender)
 - Now add the plant milk or nut butter
@@ -168,11 +169,11 @@
     - Add few drops of oil and tilt the pan so the oil spreads
     - Roast till brown and take it out
 - Peanut chutney
-    - roast peanuts, split chickpeas, green chilli (coconut fresh/dry), 1 tsp oil
-    - optinal: add fresh herbs mint, coriander at the end in the hot pan
+    - roast peanuts, split chickpeas, cumin, green chilli , 1 tsp oil
+    - optinal: coconut fresh/dry, fresh herbs mint, coriander at the end in the hot pan
     - add tamarind / lemon juice 
     - blend the mixture coarse to smooth
-    - add icecubes/water, salt while blending as required
+    - add icecubes/cold water, salt while blending as required
     - tempering (mustard, split peas, split urad dal, oil, dry red chilli, hing, curry leaves)
 
 ### Vego wrap 
@@ -216,3 +217,9 @@
 - gets the shape of the bowl:))
 - toppings:
     - dill, thyme, parsley
+
+
+### Soy mince
+
+### Baked tofu
+
