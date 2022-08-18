@@ -8,10 +8,11 @@
 - panfried vegetables: carrot match sticks, long cut onions, peppers
 - herbs: coriander, mint, dry fenugreek leaves
 - our lentil soup on baked vegetables / place panfired veggies on lentil soup
+
 ### Yellow pea soup with roasted roots/mushrooms
 - overnight soaked yellow peas/chickpeas (boiled very soft)
 - garlic, nutmeg, thyme, pepper, fennel/annis seeds, salt
-- onions/cabbage, fennel bulb, carrots, brocoli, zuchini, cauliflower
+- onions/cabbage, fennel bulb, carrots, brocoli, zuchini, cauliflower, root cellary
 - Optional greens: kale, spinach
 - coconut milk / almond milk / nut butter / seed butter
 - bring all ingridients to boil, add boiled peas and blend (ideally with handblender)
@@ -64,6 +65,14 @@
 ### Moussaka
 - Soaked and boiled whole green/brown lentils (boiled medium soft)
 - zuchini, eggplant 
+- Filling / meat 
+    - olive oil, nutmeg, rosemary, sage
+    - garlic, onions, tomatoes
+    - boiled lentils
+    - soy chucks boiled
+- Topping
+    - Root mash (potatoe, carrot, root celery) + coconut milk / yogurt 
+    - garlic + oliveoil + pepper + salt
 
 ## **Curries**
 
@@ -74,7 +83,6 @@
 - coconut milk / nut butter 
 - carrot, brocoli, cauliflower, bell peppers, green peas, french beans, zuchini
 - cooked rice (jasmin)
-
 
 
 ### Dal makhani with flat/liba bread or rice
@@ -135,6 +143,42 @@
     - kasuri methi
     - fresh coriander or mint
 
+### Fish curry
+- The Fish:
+    - horizontally cut and cleaned white Fish with skin (not scales)
+    - prefarably caught in fresh water     
+    - frozen fish works fine as well
+    - this recipie calls for 4-6 pieces 
+- Spice mix (dry roasted on lowheat):
+    - 2 spoons coriander seeds
+    - 1/2 spoon cumin, 1/2 spoon pepper seeds
+    - 1/2 spoon fenugreek seeds
+    - 1 spoon dry split chickpeas / yellow peas    
+    - 2-3 spoons dry coconut grated/chunks
+    - 3 spoons poppy seeds
+- curry paste:
+    - dry roasted spice mix
+    - 1 medium to large red onion grilled/roasted 
+    - 3-6 garlic cloves
+    - blend it to make a fine and smooth paste
+- Tamarind juice:
+    - take a lime / ping-pong ball sized tamarind
+    - soak it in boiling water for ~10 min
+    - Then mix the tamarind with hand 
+    - filter/remove any residue
+- tempering:
+    - oil, 1 cardamom, 2 cloves, 1 inch piece of cinnamon
+    - 3-6 green chilli slit open
+    - (optional) curry leaves (fresh/dry)
+- prepared curry paste 
+    - toast it for few minutes on medium heat setting
+- tamarind juice
+- 1/2 spoon turmeric, 1 spoon salt
+- 1/2 spoon red chilli powder (kashmiri / korean)
+- add boiling water ~500ml, mix in all ingredients and let it boil for 5min
+- Finally place the fish pieces in the pot and let it cook for 5-10min or until the oil floats
+- Tastes best when served with sticky rice (ex: jasmin rice)
+
 ### Upma ( bulgur , vegetables and lentils)
 - fry split urid dal, split pigeon peas/ chick peas, mustard seeds in oil till mustard pops
 - add ginger, hing (Asafoetida), curry leaves (fresh/dry), green chilli, salt
@@ -155,6 +199,14 @@
     - eggplant, tomatoes, chilli, cumin, garlic, salt (cook and blend)
     - tempering (mustard, split peas, split urad dal, oil, dry red chilli, hing, curry leaves)
 
+
+### lentil bread
+- red lentils + split chickpeas (3/4, 1/4) + 2-3 spoons fenugreek seeds soaked for 4-8 hrs
+- blend to make batter with pancake batter consitency and add salt
+- Add yeast and let it ferment for about 8 hrs
+- Spread the batter on a heated pan to make the bread.
+- the flat bread sores well and the batter can be stored in the fridge for about a week.
+
 ### Dosa (split and peeled beluga lentils/urad dal, rice) + peanut chutney
 - Soak 8 to 12 hrs
     - 2:1 rice:lentils, 
@@ -165,7 +217,7 @@
     - cover it lid almost closed or use plastic wrap with poked wholes
     - after 12 to 18 hrs transfer it to refirgerator to slowdown fermentation
 - Dosa
-    - On a heated pan preferably cat iron, pour and spread out the batter thin
+    - On a heated pan preferably cast iron, pour and spread out the batter thin
     - Add few drops of oil and tilt the pan so the oil spreads
     - Roast till brown and take it out
 - Peanut chutney
@@ -220,6 +272,27 @@
 
 
 ### Soy mince
+- Soy chunks / Meal maker 
+    - Boil in slightly salted water for 6-8 minutes
+    - Drain the water and sqeeze the boiled soy chunks to remove all the water they absorbed
+    - After squeezing, chop them with knife / put them in a food processor / tear them with hand to get the right texture.
+- tempering:
+    - oil, cumin/black cumin seeds, pepper
+    - bay leaf, freshly grated nutmeg, one staranise
+- After tempering:
+    - finely chopped big onion
+    - (optional) finely diced carrot, peppers, cabbage, brocoli
+    - ginger, garlic paste one heaping spoon 
+    - (optinal) 1-2 spoons tomato paste
+    - (optional) soft boiled black beans
+    - Turmeric, garam masala, cumin powder, kashmiri red chilli powder
+- Once vegetables are soft and tender
+    - 1/2 cup creamy coconut milk
+    - kasoori methi, lemon/citric acid
+    - (optional) kafir lime leaves
+    - Boil for few minutes 
+    - add prepared soy chunks and cook for few more minutes
+    - (optional) A drissle of yogurt - plant based of possible
 
 ### Baked tofu
 
