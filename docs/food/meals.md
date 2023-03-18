@@ -294,5 +294,48 @@
     - add prepared soy chunks and cook for few more minutes
     - (optional) A drissle of yogurt - plant based of possible
 
-### Baked tofu
+### Bean/Lentil + walnut burrito
 
+The bread: Liba bread or tortilla works
+
+The filling:
+
+Ingridients:
+- 2 cups medium to soft boiled whole lentils/beans
+- 1 cup walnuts
+- 1 can / 3 fresh chopped tomatoes
+- (optional) 1-2 tsp tomato paste
+- 2-3 cloves garlic
+- 1/2 tea spoon cumin, smoked paprika, chilli flakes
+- 1 tea spoon oregano, mejram
+- 1/2 tea spoon fenugreek powder / kasorri methi dry leaves
+- olive oil, salt, pepper
+
+Method:
+- Saute finely chopped garlic in olive oil untill golden 
+- Add roughly choppped walnuts and saute for 2-3 minutes (chop or pulse in food processor)
+- Add the boiled beans/lentils + chopped tomatoes
+- Add all the herbs and spices + salt
+- Stir and let it boil in low heat for about 10 minutes
+
+
+Salad:
+- lettuce (any lettuce works)
+- purple cabbage/regular cabbage
+- spinach or pak choi or any other green leafy vegetable
+- Finely chopped salad + lemon/vinegar + salt + olive oil
+
+Guacamole (optional) :
+- Mashed avocado + red oinion
+- seasoning: lemon/vinegar + soy sauce + salt + pepper + cumin + olive oil
+
+Tahini Dressing (optional):
+- tahini / saoked and blended sunflower seeds or cashew nuts
+- lemon / vinegar
+- cumin
+- pepper, salt, olive oil
+- pinch of black salt / soy sauce
+
+Extras:
+- topped with lighlty crushed roasted almonds/sunflower seeds / any nuts with salt
+- Ajvar/mustard/sriracha hot sauce as seasoning for the wrap
